@@ -1,4 +1,4 @@
-# Salut, moi c'est Fortuno (alias Fortuno_dev_IA) 👋
+# Salut, moi c'est FortunodevIA (alias Fortuno_dev_IA) 👋
 
 > **Développeur passionné d'Intelligence Artificielle et créateur de solutions technologiques basé en Côte d'Ivoire.** 🇨🇮
 
